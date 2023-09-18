@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.elegancecoltd.ausirisnext",
+      "sha256_cert_fingerprints": [
+        "A7:3B:24:38:5A:67:6C:CD:D6:76:14:F6:53:90:AA:91:26:23:DB:8D:A7:AD:3D:6F:C8:BB:18:C5:69:5C:37:AA"
+      ]
+    }
+  }
+]
